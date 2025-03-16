@@ -1,3 +1,6 @@
 .idea
 out
 Arrays-and-Arraylists.iml
+/.vscode
+settings.json
+/bin
